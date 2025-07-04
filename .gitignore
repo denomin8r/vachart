@@ -18,3 +18,5 @@
 *.ps
 *.eps
 .pdf
+/venv
+/.idea
